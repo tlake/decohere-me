@@ -10,9 +10,10 @@ env/
 # ignore staticfiles folder
 staticfiles/
 
+# ignore this ignore to dev on mulitple machines
 # ignore local files
-*.sqlite3
-.foreman
-.env
-Procfile.dev
-local-settings
+#*.sqlite3
+#.foreman
+#.env
+#Procfile.dev
+#local-settings
