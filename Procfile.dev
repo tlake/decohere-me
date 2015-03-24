@@ -1,1 +1,1 @@
-web: gunicorn cf_project.wsgi -b 127.0.0.1:8000 --log-file -
+web: gunicorn decohere_me.wsgi -b 127.0.0.1:8000 --log-file -
