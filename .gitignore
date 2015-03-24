@@ -1,0 +1,18 @@
+# ignore all virtualenv stuff
+env/
+
+# ignore swap
+*.swp
+
+# ignore .pyc files
+*.pyc
+
+# ignore staticfiles folder
+staticfiles/
+
+# ignore local files
+*.sqlite3
+.foreman
+.env
+Procfile.dev
+local-settings

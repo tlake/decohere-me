@@ -1,0 +1,1 @@
+web: gunicorn decohere_me.wsgi --log-file -
